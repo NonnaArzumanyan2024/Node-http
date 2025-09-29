@@ -1,0 +1,14 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "Simple Node.js HTTP server homework",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.mjs"
+  },
+  "keywords": ["http", "html", "GET", "simple pages"],
+  "author": "Nonna Arzumanyan",
+  "license": "ISC",
+  "type": "module"
+}
+
